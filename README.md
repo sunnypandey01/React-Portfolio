@@ -27,5 +27,11 @@ This project showcases my skills, projects, and experience as a **Computer Scien
 
 ---
 
-## 📂 Project Structure
+## 🌱 Learning Outcomes
+
+- Improved React component structuring
+- Hands-on experience with Vite
+- Better understanding of modern frontend workflows
+- Improved UI/UX design sense
+
 
