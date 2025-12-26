@@ -34,6 +34,6 @@ This project showcases my skills, projects, and experience as a **Computer Scien
 - Better understanding of modern frontend workflows
 - Improved UI/UX design sense
 ## 🌐 Live Demo
-https://react-portfolio-xxxx.vercel.app
+https://vercel.com/sunnypandeys-projects/react-portfolio
 
 
